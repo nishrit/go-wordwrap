@@ -1,1 +1,1 @@
-module github.com/mitchellh/go-wordwrap
+module github.com/nishrit/go-wordwrap
